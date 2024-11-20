@@ -1,0 +1,31 @@
+@keyframes header-animation{
+  0%{content:"|";}
+  5%{content:"La|";}
+  8%{content:"Larr|";}
+  10%{content:"Larry|";}
+  14%{content:" Larry Dan|";}
+  19%{content:"Larry Danie|";}
+  23%{content:"Larry Daniels|";}
+  28%{content:"Larry Danie|";}
+  35%{content:"Larry |";}
+  40%{content:"Lar|";}
+  45%{content:"L|";}
+  50%{content:"|";}
+  55%{content:"De|";}
+  60%{content:"Devel|";}
+  65%{content:"Developer|";}
+  70%{content:"Devel|";}
+  75%{content:"Dev|";}
+  80%{content:"De|";}
+  83%{content:"Des|";}
+  85%{ content:"Design|";}
+  87%{content:"Designer|";}
+  90%{content:"Design|";}
+  92%{content:"Desi|";}
+  95%{content:"De|";}
+  97%{content:"D|";}
+  100%{content:"|";}
+  
+
+
+}
